@@ -17,7 +17,7 @@ Transcript by: glozow
 
 ## Introduction
 
-I'm Jim from the protocol team at Coinbase. We work on open source stuff in the crypto space. We just contribute to projects like Bitcoin core. The reason I'm talking about this is I've been contributing on and off to one of the major lightning implementations lnd for the past eight months or so.
+We work on open source stuff in the crypto space. We just contribute to projects like Bitcoin core. The reason I'm talking about this is I've been contributing on and off to one of the major lightning implementations lnd for the past eight months or so.
 
 This is gonna be a fairly technical talk. We're going to break down the protocol specification that specifies how Lightning Network nodes communicate with each other. It's an 11 part spec. There's 11 BOLTs and so we're gonna go, piece by piece, BOLT by BOLT. Some of them will be more in depth than others. I know people are probably at different levels of understanding with this stuff so can I just kind of poll... who knows what a UTXO is? Who knows what an HTLC is? Okay cool, that's helpful for me to know where to spend time and stuff.
 
