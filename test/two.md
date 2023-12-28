@@ -5,7 +5,7 @@ categories: ['meetup']
 tag: ['lightning']
 speakers: ['Jim Posen']
 date: 2018-07-24
-media: https://www.youtube.com/watch?v=Ysj2yobFMF4
+media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Amiti-Uttarwar-and-the-P2P-network---Episode-15-e18v7oq
 ---
 
 
