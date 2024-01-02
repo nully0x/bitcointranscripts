@@ -17,5 +17,3 @@ I will talk about provably bug-free BIPs and implementations. I don't have such 
 
 Just to set the stage. Specifications should be free of bugs, we want them easy to implement and hard to misinterpret. This makes writing specifications a slow and exhausting and thankless process.
 
-This talk presents a tiny step toward improving the whole process and less error prone.
-
