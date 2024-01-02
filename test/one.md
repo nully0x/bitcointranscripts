@@ -1,5 +1,5 @@
 ---
-title: Epicenter Bitcoin - Scalability
+title: "Epicenter Bitcoin - Scalability"
 transcript_by: Bryan Bishop via TSTBTC --needs-review
 tags: ['proof-of-work', 'sidechains']
 categories: ['podcast']
