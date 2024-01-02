@@ -1,6 +1,6 @@
 ---
 title: "Provably bug-free BIPs and implementations using hac-spec"
-transcript_by: Bryan Bishop
+transcript_by: Bryan Bishop via TSTBTC --needs-review
 categories: ['core-dev-tech']
 tags: ['cryptography']
 speakers: ['Jonas Nick']
