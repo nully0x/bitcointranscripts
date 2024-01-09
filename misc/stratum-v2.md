@@ -16,7 +16,7 @@ Matt Corallo presentation on BetterHash: https://diyhpl.us/wiki/transcripts/lond
 
 Stratum v1 (BIP 310): https://github.com/bitcoin/bips/blob/master/bip-0310.mediawiki
 
-Stratum v2: https://braiins.com/stratum-v2
+Stratum v2: https://braiins.com/stratum-v
 
 Transcript by: Michael Folkson
 
