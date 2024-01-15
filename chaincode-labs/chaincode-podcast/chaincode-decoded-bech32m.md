@@ -34,7 +34,11 @@ Are you sure it's bech32?
 
 Speaker 1: 00:00:41
 
+<<<<<<< HEAD
 The inventor of the name, I think, calls it bash 32.
+=======
+The inventor of the name, I think, calls it bech32.
+>>>>>>> 1cc910e (Add "Chaincode Decoded: Bech32m" to chaincode-labs/chaincode-podcast)
 I've heard various other pronunciations like Beck 32 or Bech 32.
 I don't know, Bech 32.
 
