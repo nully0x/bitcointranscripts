@@ -1,6 +1,6 @@
 ---
 title: Succinct Atomic Swap
-transcript_by: Michael Folkson via tstbtc --needs-revie
+transcript_by: Michael Folkson via tstbtc --needs-revi
 date: 2020-05-11
 speakers: ['Ruben Somsen']
 media: https://www.youtube.com/watch?v=TlCxpdNScCA
