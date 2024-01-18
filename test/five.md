@@ -1,6 +1,6 @@
 ---
 title: ROAST - Robust asynchronous Schnorr threshold signatures
-transcript_by: Bryan Bishop via tstbtc --needs-revie
+transcript_by: Bryan Bishop via tstbtc --needs-revi
 categories: ['core-dev-tech']
 speakers: ['Tim Ruffing']
 tags: ['schnorr', 'FROST']
