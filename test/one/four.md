@@ -20,5 +20,4 @@ Host: Welcome to Whalepool.
 
 Gavin: Hey Roger, it's Gavin. I heard about this.
 
-RV: Hey Eric. I see lots of familiar names in here.
-
+RV: Hey Eric. I see lots of familiar names in here
