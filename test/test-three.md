@@ -1,6 +1,6 @@
 ---
 title: Atomic Multi Channel Updates
-transcript_by: Bryan Bishop via tstbtc --neeeds-review
+transcript_by: Bryan Bishop via tstbtc --needs-review
 categories: ['conference']
 tags: ['scalability']
 speakers: ['Matteo Maffei']
