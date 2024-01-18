@@ -1,6 +1,6 @@
 ---
 title: Whalepool
-transcript_by: Bryan Bishop via TSTBTC --needs-review
+transcript_by: Bryan Bishop via TSTBTC --needs-revie
 tags: ['ux', 'segwit']
 speakers: ['Eric Lombrozo', 'Roger Ver']
 date: 2016-12-14

@@ -1,6 +1,6 @@
 ---
 title: Lnd
-transcript_by: Michael Folkson via TSTBTC --needs-review
+transcript_by: Michael Folkson via TSTBTC --needs-revie
 categories: ['podcast']
 tags: ['lightning']
 speakers: ['Olaoluwa Osuntokun', 'Conner Fromknecht']
