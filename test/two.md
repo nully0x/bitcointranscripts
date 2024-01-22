@@ -1,6 +1,6 @@
 ---
 title: Transparent Snarks From Dark Compilers
-transcript_by: Bryan Bishop via tstbtc --needs-review
+transcript_by: Bryan Bishop via tstbtc --needs-revie
 categories: ['conference']
 tags: ['accumulators']
 speakers: ['Ben Fisch']
