@@ -1,6 +1,6 @@
 ---
 title: c-lightning developer call
-transcript_by: Michael Folkson via tstbtc --needs-review
+transcript_by: Michael Folkson via tstbtc --needs-revi
 categories: ['meetup']
 tags: ['lightning', 'c-lightning']
 date: 2021-11-29

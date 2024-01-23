@@ -1,6 +1,6 @@
 ---
 title: Contracts in Bitcoin
-transcript_by: Caralie Chrisco via tstbtc --needs-review
+transcript_by: Caralie Chrisco via tstbtc --needs-revie
 tag: ['smart contracts']
 date: 2020-04-08
 speakers: ['John Newbery']
