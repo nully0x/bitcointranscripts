@@ -1,6 +1,6 @@
 ---
 title: libbitcoinkernel
-transcript_by: Michael Folkson
+transcript_by: Michael Folkson via tstbtc --needs-review
 categories: ['video']
 tags: ['bitcoin core', 'consensus']
 speakers: ['Carl Dong']
